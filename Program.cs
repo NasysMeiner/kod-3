@@ -272,7 +272,7 @@ namespace hw6._5
 
     class Book
     {
-        private static int Ids = 10;
+        private static _ids = 10;
         public int Id { get; private set; }
         public string Name { get; private set; }
         public string Author { get; private set; }
